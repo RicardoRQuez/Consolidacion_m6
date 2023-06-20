@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  {
+    "id": 2,
+    "nombre": " Piece",
+    "genero": "Shonen",
+    "año": "1999",
+    "autor": "Eiichiro Oda"
+  },
+  {
+    "id": 3,
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  {
+    "id": 4,
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  {
+    "id": 5,
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  {
+    "id": "be643e3e-4726-4fc1-9acb-9bb9ff892ad8",
+    "nombre": "Nombre actualizado",
+    "genero": "Genero actualizado",
+    "año": "2022",
+    "autor": "Autor Actualizado"
+  },
+  {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": 1999,
+    "autor": "Eiichiro Oda",
+    "id": "acd338a0-e9c5-48ea-8b30-6a8a1ba35787"
+  }
+]
